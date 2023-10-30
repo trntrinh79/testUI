@@ -1,6 +1,8 @@
 # shop_app
 
-A new Flutter project.
+Image:
+![Uploading Simulator Screenshot - iPhone 15 Pro Max - 2023-10-30 at 18.21.42.png…]()
+
 
 ## Getting Started
 
