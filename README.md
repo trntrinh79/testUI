@@ -1,7 +1,8 @@
 # shop_app
 
 Image:
-![Uploading Simulator Screenshot - iPhone 15 Pro Max - 2023-10-30 at 18.21.42.png…]()
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-10-30 at 18 21 42](https://github.com/trntrinh79/testUI/assets/91517750/1e4a892f-2598-4cfd-a9d2-80e42c51fd9c)
+
 
 
 ## Getting Started
